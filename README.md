@@ -173,5 +173,5 @@ Licença
 Sem licença explícita. Consulte o autor para mais informações.
 
 Autor
-Desenvolvido por Adams Zago.
+Desenvolvido por Carlos Vianna - It Valley
 
